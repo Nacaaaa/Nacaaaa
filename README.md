@@ -1,6 +1,6 @@
 **Student | Developer**
 
-## Tech Stack
+### Tech Stack
 
 ![C](https://img.shields.io/badge/C-FCE7F3?style=for-the-badge&logo=c&logoColor=BE185D)
 ![C#](https://img.shields.io/badge/C%23-FFE0EF?style=for-the-badge&logo=csharp&logoColor=BA2878)
@@ -29,6 +29,6 @@
 --->
 
 
-## Connect
+### Connect
 
 [LinkedIn](www.linkedin.com/in/natasa-mojasevic) · [Email](mailto:nmojasevic825rn@raf.rs)
