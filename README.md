@@ -14,7 +14,7 @@
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=Nacaaaa&show_icons=true&bg_color=FFF1F8&title_color=BE185D&text_color=831843&icon_color=BA2878&border_color=FCE7F3)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nacaaaa&custom_title=GitHub%20Stats&show_icons=true&bg_color=FFF1F8&title_color=BE185D&text_color=831843&icon_color=BA2878&border_color=FCE7F3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=FFF1F8&title_color=BE185D&text_color=831843&border_color=FCE7F3)
 </div>
