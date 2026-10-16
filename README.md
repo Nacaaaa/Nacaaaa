@@ -12,8 +12,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFE0EF?style=for-the-badge&logo=javascript&logoColor=BA2878)
 ![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=9D174D)
 
-###Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Nacaaaa&show_icons=true&bg_color=FFF1F8&title_color=BE185D&text_color=831843&icon_color=BA2878&border_color=FCE7F3)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=FFF1F8&title_color=BE185D&text_color=831843&border_color=FCE7F3)
 <!--
 ![GitHub](https://img.shields.io/badge/GitHub-FCE7F3?style=for-the-badge&logo=github&logoColor=831843)
