@@ -1,7 +1,7 @@
 **Student | Developer**
 
-### Tech Stack
-
+## Tech Stack
+<div align="center">
 ![C](https://img.shields.io/badge/C-FCE7F3?style=for-the-badge&logo=c&logoColor=BE185D)
 ![C#](https://img.shields.io/badge/C%23-FFE0EF?style=for-the-badge&logo=csharp&logoColor=BA2878)
 ![Python](https://img.shields.io/badge/Python-FCE7F3?style=for-the-badge&logo=python&logoColor=BE185D)
@@ -16,6 +16,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Nacaaaa&show_icons=true&bg_color=FFF1F8&title_color=BE185D&text_color=831843&icon_color=BA2878&border_color=FCE7F3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=FFF1F8&title_color=BE185D&text_color=831843&border_color=FCE7F3)
+</div>
 <!--
 ![GitHub](https://img.shields.io/badge/GitHub-FCE7F3?style=for-the-badge&logo=github&logoColor=831843)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FCE7F3?style=for-the-badge&logo=oracle&logoColor=BE185D)
@@ -24,7 +25,7 @@
 
 <!--
 **Nacaaaa/Nacaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--->
 
 
 ## Connect
