@@ -1,4 +1,4 @@
-**Student | Developer**
+#Student | Developer
 
 ### Tech Stack
 
