@@ -2,19 +2,19 @@
 
 ### Tech Stack
 
-![C](https://img.shields.io/badge/C-FCE7F3?style=for-the-badge&logo=c&logoColor=BE185D)
-![C#](https://img.shields.io/badge/C%23-FFE0EF?style=for-the-badge&logo=csharp&logoColor=BA2878)
-![Python](https://img.shields.io/badge/Python-FCE7F3?style=for-the-badge&logo=python&logoColor=BE185D)
-![Java](https://img.shields.io/badge/Java-FCE7F3?style=for-the-badge&logo=openjdk&logoColor=BE185D)
-![SQL](https://img.shields.io/badge/SQL-FFE0EF?style=for-the-badge&logo=database&logoColor=BA2878)
-![HTML](https://img.shields.io/badge/HTML5-FFE0EF?style=for-the-badge&logo=html5&logoColor=BA2878)
-![CSS](https://img.shields.io/badge/CSS3-FCE7F3?style=for-the-badge&logo=css3&logoColor=BE185D)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE0EF?style=for-the-badge&logo=javascript&logoColor=BA2878)
-![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=9D174D)
+![C](https://img.shields.io/badge/C-FCE7F3?style=for-the-badge&logo=c&logoColor=BD95DE)
+![C#](https://img.shields.io/badge/C%23-FFE0EF?style=for-the-badge&logo=csharp&logoColor=BD95DE)
+![Python](https://img.shields.io/badge/Python-FCE7F3?style=for-the-badge&logo=python&logoColor=BD95DE)
+![Java](https://img.shields.io/badge/Java-FCE7F3?style=for-the-badge&logo=openjdk&logoColor=BD95DE)
+![SQL](https://img.shields.io/badge/SQL-FFE0EF?style=for-the-badge&logo=database&logoColor=BD95DE)
+![HTML](https://img.shields.io/badge/HTML5-FFE0EF?style=for-the-badge&logo=html5&logoColor=BD95DE)
+![CSS](https://img.shields.io/badge/CSS3-FCE7F3?style=for-the-badge&logo=css3&logoColor=BD95DE)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE0EF?style=for-the-badge&logo=javascript&logoColor=BD95DE)
+![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=BD95DE)
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=Nacaaaa&custom_title=GitHub%20Stats&show_icons=true&bg_color=FFF1F8&title_color=BE185D&text_color=831843&icon_color=BA2878&border_color=FCE7F3)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nacaaaa&custom_title=GitHub%20Stats&show_icons=true&bg_color=BD95DE&title_color=BE185D&text_color=831843&icon_color=BA2878&border_color=FCE7F3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=FFF1F8&title_color=BE185D&text_color=831843&border_color=FCE7F3)
 </div>
