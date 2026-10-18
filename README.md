@@ -1,35 +1,69 @@
-## Student | Developer
-
-### Tech Stack
-
-![C](https://img.shields.io/badge/C-FCE7F3?style=for-the-badge&logo=c&logoColor=BD95DE)
-![C#](https://img.shields.io/badge/C%23-FFE0EF?style=for-the-badge&logo=csharp&logoColor=BD95DE)
-![Python](https://img.shields.io/badge/Python-FCE7F3?style=for-the-badge&logo=python&logoColor=BD95DE)
-![Java](https://img.shields.io/badge/Java-FCE7F3?style=for-the-badge&logo=openjdk&logoColor=BD95DE)
-![SQL](https://img.shields.io/badge/SQL-FFE0EF?style=for-the-badge&logo=database&logoColor=BD95DE)
-![HTML](https://img.shields.io/badge/HTML5-FFE0EF?style=for-the-badge&logo=html5&logoColor=BD95DE)
-![CSS](https://img.shields.io/badge/CSS3-FCE7F3?style=for-the-badge&logo=css3&logoColor=BD95DE)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE0EF?style=for-the-badge&logo=javascript&logoColor=BD95DE)
-![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=BD95DE)
+<!-- ✦ PROFILE HEADER ✦ -->
 
 <div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=Nacaaaa&custom_title=GitHub%20Stats&show_icons=true&bg_color=d9a9eb&title_color=000000&text_color=000000&icon_color=000000&border_color=FCE7F3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=d9a9eb&title_color=000000&text_color=000000&border_color=FCE7F3)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F1E9&height=120&section=header&text=Student%20%7C%20Developer&fontSize=36&fontColor=263D50&fontAlignY=55" width="100%" alt="Student | Developer"/>
+
 </div>
-<!--
-![GitHub](https://img.shields.io/badge/GitHub-FCE7F3?style=for-the-badge&logo=github&logoColor=831843)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FCE7F3?style=for-the-badge&logo=oracle&logoColor=BE185D)
-![MySQL](https://img.shields.io/badge/MySQL-FFE0EF?style=for-the-badge&logo=mysql&logoColor=BA2878)
---->
 
-<!--
-**Nacaaaa/Nacaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-aaa
---->
+---
+
+<!-- ✦ TWO-COLUMN PROFILE LAYOUT ✦ -->
+
+<table>
+<tr>
+<td width="34%" valign="top" align="center">
+
+<img src="https://github.com/Nacaaaa.png" width="180" alt="Nataša's GitHub avatar"/>
+
+---
+
+### ♡ About me
+
+Student with an interest in programming, technology, and learning new things.
+
+### 🔗 Find me
+
+[ORCID](https://orcid.org/0009-0004-1980-7856)
+
+[LinkedIn](https://www.linkedin.com/in/natasa-mojasevic)
+
+[Email](mailto:nmojasevic825rn@raf.rs)
+
+---
+
+</td>
+
+<td width="66%" valign="top">
+
+## ✧ Tech Stack
+
+![C](https://img.shields.io/badge/C-DCE7ED?style=for-the-badge&logo=c&logoColor=466579)
+![C#](https://img.shields.io/badge/C%23-E5E0ED?style=for-the-badge&logo=csharp&logoColor=66527F)
+![Python](https://img.shields.io/badge/Python-DCE7ED?style=for-the-badge&logo=python&logoColor=466579)
+![Java](https://img.shields.io/badge/Java-F2E4D6?style=for-the-badge&logo=openjdk&logoColor=996344)
+![SQL](https://img.shields.io/badge/SQL-E5E0ED?style=for-the-badge&logo=databricks&logoColor=66527F)
+![HTML5](https://img.shields.io/badge/HTML5-F2E4D6?style=for-the-badge&logo=html5&logoColor=996344)
+![CSS3](https://img.shields.io/badge/CSS3-DCE7ED?style=for-the-badge&logo=css3&logoColor=466579)
+![JavaScript](https://img.shields.io/badge/JavaScript-F4EBD0?style=for-the-badge&logo=javascript&logoColor=82703B)
+![Git](https://img.shields.io/badge/Git-EADFD8?style=for-the-badge&logo=git&logoColor=805B49)
+
+---
+
+## ✧ GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nacaaaa&custom_title=GitHub%20Stats&show_icons=true&bg_color=F5F1E9&title_color=263D50&text_color=526779&icon_color=658A9E&border_color=D4DFE5&hide_border=false" alt="GitHub statistics"/>
+
+<br/>
+
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=F5F1E9&title_color=263D50&text_color=526779&border_color=D4DFE5&hide_border=false" alt="Most used programming languages"/>
+
+</div>
 
 
-### Connect
+</td>
+</tr>
+</table>
 
-[LinkedIn](www.linkedin.com/in/natasa-mojasevic) · [Email](mailto:nmojasevic825rn@raf.rs)
