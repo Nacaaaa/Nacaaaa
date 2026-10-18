@@ -14,9 +14,9 @@
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=Nacaaaa&custom_title=GitHub%20Stats&show_icons=true&bg_color=BD95DE&title_color=8d0aff&text_color=8d0aff&icon_color=8d0aff&border_color=FCE7F3)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nacaaaa&custom_title=GitHub%20Stats&show_icons=true&bg_color=BD95DE&title_color=000000&text_color=000000&icon_color=000000&border_color=FCE7F3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=BD95DE&title_color=8d0aff&text_color=8d0aff&border_color=FCE7F3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=BD95DE&title_color=000000&text_color=000000&border_color=FCE7F3)
 </div>
 <!--
 ![GitHub](https://img.shields.io/badge/GitHub-FCE7F3?style=for-the-badge&logo=github&logoColor=831843)
