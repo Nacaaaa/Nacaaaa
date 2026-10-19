@@ -58,7 +58,7 @@ Student with an interest in programming, technology, and learning new things.
 
 <br/>
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=F5F1E9&title_color=263D50&text_color=526779&border_color=D4DFE5&hide_border=false" alt="Most used programming languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=F5F1E9&title_color=263D50&text_color=526779&border_color=D4DFE5&hide_border=false" alt="Most used programming languages"/>
 
 </div>
 
