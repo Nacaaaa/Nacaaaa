@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F1E9&height=120&section=header&text=Student%20%7C%20Developer&fontSize=36&fontColor=263D50&fontAlignY=55" width="100%" alt="Student | Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Student%20%7C%20Developer&fontSize=36&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Student | Developer"/>
 
 </div>
 
@@ -54,11 +54,11 @@ Student with an interest in programming, technology, and learning new things.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nacaaaa&custom_title=GitHub%20Stats&show_icons=true&bg_color=F5F1E9&title_color=263D50&text_color=526779&icon_color=658A9E&border_color=D4DFE5&hide_border=false" alt="GitHub statistics"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nacaaaa&custom_title=GitHub%20Stats&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=D4DFE5&hide_border=false" alt="GitHub statistics"/>
 
 <br/>
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=F5F1E9&title_color=263D50&text_color=526779&border_color=D4DFE5&hide_border=false" alt="Most used programming languages"/>
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacaaaa&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=D4DFE5&hide_border=false" alt="Most used programming languages"/>
 
 </div>
 
