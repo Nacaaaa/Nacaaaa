@@ -47,6 +47,7 @@ Student with an interest in programming, technology, and learning new things.
 ![CSS3](https://img.shields.io/badge/CSS3-DCE7ED?style=for-the-badge&logo=css3&logoColor=466579)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F4EBD0?style=for-the-badge&logo=javascript&logoColor=82703B)
 ![Git](https://img.shields.io/badge/Git-EADFD8?style=for-the-badge&logo=git&logoColor=805B49)
+![Go](https://img.shields.io/badge/Go-DCE7ED?style=for-the-badge&logo=go&logoColor=007D9C")
 
 ---
 
